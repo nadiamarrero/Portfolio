@@ -1,0 +1,482 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+#wrapper {
+	
+		display: inline;
+		flex-wrap:wrap;
+		width: 1000px;
+		justify-content: space-around;
+		font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	background-repeat: no-repeat;
+	
+	
+	
+}
+
+.kontaktformular
+{
+	text-align: center;
+	font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	color: #524444;
+}
+.undertsket {
+	
+	font-size: 13px;
+	text-align: center;
+}
+.toppen {
+
+	background-repeat: no-repeat;
+	letter-spacing: 2px;
+	margin: 25px;
+	
+	
+		
+	
+}
+	
+.marven a {
+	
+	text-decoration: none;
+	font-weight: bold;
+	float: right;
+	margin: -34px 10px 20px 15px;
+	padding: 10px 20px 20px -20px;
+	color: #524444;
+	
+	
+	
+	
+}
+.marven li {
+	
+	list-style: none;
+	display: inline;
+	font-family: Avant Garde,palatino, Garamond, Trajan, sans-serfif;
+	font-size: 0.8em;
+	padding: 10px 10px 10px 10px;
+	
+	
+	
+}
+.marven a:hover {
+	background-color: #eee;
+	text-decoration: underline;
+	
+	
+}
+.marven {
+	
+	margin: -20px;
+	
+}
+
+.overskrift  {
+	
+	color: #524444;
+	text-align:center ;
+	text-decoration-line: none;
+	margin-top: 10px;
+	font-size: 4.1em;
+	padding: 30px 47px 2px 17px;
+
+	
+	
+
+}
+.overskrift a {
+	
+	text-decoration: none;
+	color: #524444;
+	text-align: center;
+	padding: 50px 202px 69px 225px;
+	
+	 
+}
+
+
+.portfolio a:visited{
+	color: #0000CC;
+	
+}
+.ommig a:visited {
+	color: #0000CC;
+
+}
+
+.kontakt a:visited {
+	color: #0000CC;
+	}
+
+	
+
+.projekter
+{
+	
+	display:flex;
+	margin: 20px 20px, 20px, 20px;
+	padding: 0px 40px 20px 100px;
+	
+	text-align: center;
+	width: 1000px;
+	
+}
+
+
+.projektdw:hover {
+	
+
+	opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.projektdw {
+	width: 28%;
+	bottom: 20%;
+	
+	
+
+}
+
+.projekthtml {
+	width: 28%;
+	
+	
+	
+}
+
+.projektps  {
+	
+	width: 28%;
+	
+	
+	
+	
+}
+
+
+
+
+.maps {
+	
+	width: 40%;
+	height: 60%;
+	float: center;
+	margin: 50px 20px 20px 440px;
+	
+}
+	
+
+
+
+
+.breadtekst {
+	
+	font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	text-align: center;
+	font-size: 1em;
+	line-height: 27px;
+	background-color: white;
+	border: thick;
+}
+.forsidebillede {background-color: white;
+
+}
+
+
+.ululul{
+	
+	width: 1000px;
+	position: absolute;
+	display: inline;
+	margin: 20px;
+	padding: 190px 0 0 0 ;
+}
+.ommigommig {
+	font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	text-align: center;
+	font-size: 10px;
+	line-height: 25px;
+	background-color: whitesmoke;	
+	font-style:normal;
+	border:3px solid #7C9C85;
+	border-radius: 25px;
+	list-style: none;
+	width: 25%;
+	color: #524444;
+	margin:95px 10px 2px 29px;
+	padding: 0px 20px 20px 10px;
+	float: left;
+}
+.hvadharjeglavet {
+	
+	font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	text-align: center;
+	font-size: 10px;
+	line-height: 25px;
+	background-color: whitesmoke;
+	background-repeat: no-repeat;
+	font-style:normal;
+	border:3px solid #7C9C85;
+	border-radius: 25px;
+	list-style: none;
+	width: 25%;
+	color: #524444;
+	margin: 69px 10px 20px 560px;
+	padding: 10px 10px 20px -20px;
+	
+	
+	
+}
+.fremtide {
+	
+	font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	text-align: center;
+	font-size: 10px;
+	line-height: 25px;
+	background-color: whitesmoke;
+	color: #524444;
+	font-style:normal;
+	border:3px solid #7C9C85;
+	border-radius: 25px;
+	list-style: none;
+	width: 25%;
+	margin: -199px 10px 20px 1096px;
+	padding: 10px 20px 20px -20px;
+	
+	
+}
+.ommigtydligt {
+	font-size: 14px;
+	font-style: normal;
+	text-decoration: underline;
+	text-decoration-color: #524444;
+	text-decoration-style: solid;
+	font-weight: bolder;
+	
+}
+.cv a {
+	
+	
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bolder;
+	list-style: none;
+	text-decoration-style: double;
+	color:white;
+	
+}
+.cv {
+	
+	list-style: none;
+	text-decoration-style: double;
+	border: 1px solid black;
+	margin:  -64px 546px  580px  546px ;
+	padding: 20px 20px 20px 20px;
+	width: 25%;
+	border-radius: 25px;
+	background-color: #524444;
+	text-align: center;
+	
+	font-size: 14px;
+}
+.bench {
+	
+	width: 100%;
+	float: right;
+	background-image: url(bench_ny.jpg);
+}
+.nadia{
+	text-align: center;
+	border: thick;
+	
+	
+	width: 25px;
+	height: 100px;
+	margin: 75px;
+	margin-bottom: 25%;
+	padding: -230px 230px 120px 130px;
+	
+}
+.anbefaling {
+	font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	text-align: center;
+	font-size: 12px;
+	line-height: 27px;
+	background-color: white;
+	border-radius: 25px;
+	
+	position: absolute;
+	float:right; 
+	margin: 15px 10px 20px 356px;
+	padding: 10px 20px 20px -20px;
+	width: 50%;
+	
+}
+
+
+
+
+.contact{
+	
+text-align: left;
+	text-decoration: none;
+	color: #524444;
+	font-size: 25px;
+	list-style: none;
+	margin: 1px 455px  90px;
+	padding: 20px 40px 20px 20px;
+	
+}
+.contactto{
+		 margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-left: -605px; /* halvdelen af indholdets bredde */
+        margin-top: -150px; /* halvdelen af indholdets højre */
+	
+	border-radius: 25;
+}
+
+
+	
+footer {
+	
+	
+	position: fixed;
+bottom: 0;
+width: 100%;
+background: white;
+	
+	
+	
+	text-align: center;
+	border: thick;
+}	
+
+.nyanbefaling a hover {
+	background-color: #eee;
+	text-decoration: underline;
+	
+}
+
+.nyanbefaling a {
+	
+	color: black;
+	text-decoration: underline;
+}
+.nyanbefaling {
+	color: black;
+}
+.projektbeskrivelse {
+	
+	font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	text-align: center;
+	font-size: 1em;
+	line-height: 27px;
+	
+	border: thick;
+	
+	
+}
+.projekterererer {
+	
+	text-align: center;
+	font-size: 2em;
+	font-family: Avant Garde, palatino, Helvetica, Garamond, Trajan, sans-serfif;
+	background-color: #7C9C85;
+}
+	
+	
+	
+.boks {
+	
+		border:5px solid #524444;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	
+	 margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-left: -150px; /* halvdelen af indholdets bredde */
+        margin-top: 30px; /* halvdelen af indholdets højre */
+        
+}
+.boksnrto {
+	border:5px solid #524444;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	
+	 margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-left: 270px; /* halvdelen af indholdets bredde */
+        margin-top: 30px; /* halvdelen af indholdets højre */
+        
+        
+	
+}
+
+
+.boksnrtre {
+	
+		border:5px solid #524444;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	
+	 margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-left: -570px; /* halvdelen af indholdets bredde */
+        margin-top: 30px; /* halvdelen af indholdets højre */
+	
+	
+}
+.dreamweaver {
+	text-align: center;
+	background-color: #7C9C85;
+	
+}
+.nadia :hover {
+opacity: 0.5;
+    filter: alpha(opacity=50);
+
+}
+.benchpicture {
+	
+	width: 100px;
+	height: 50%;
+	float: right;
+	 margin: 0;
+        padding: 0;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        margin-left: -80px; /* halvdelen af indholdets bredde */
+        margin-top: -146px; /* halvdelen af indholdets højre */
+	box-shadow: 10px 10px;
+	border-radius: 25%;
+	   
+		
+	
+}
+.benchpicture :hover{
+	
+	box-shadow: 10px 10px;
+}
+	
+	
